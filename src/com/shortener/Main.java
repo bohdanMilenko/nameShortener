@@ -1,4 +1,4 @@
-package com.bank;
+package com.shortener;
 
 import java.util.Scanner;
 
