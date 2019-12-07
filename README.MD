@@ -6,6 +6,7 @@ May be usefull as a part of bigger application to create a specific format of na
 #### For example:
 
 Peter Parker -> Parker, P.
+
 Mary Jane - > Jane, M.
 
 #### Or in case of a single name:
